@@ -1,0 +1,8 @@
+{
+  "name": "PharmMed ERP & IQAC Suite",
+  "description": "Enterprise Academic, Quality, and Administrative ERP for Medical, Pharmacy, Paramedical, Tech, Science, Arts & Commerce Institutions complying with ISO 21001:2025, NAAC 1-10 Maturity Grading, NBA, and NIRF with downloadable offline PWA capability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
